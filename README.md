@@ -31,7 +31,10 @@ The initial pen position on the rails needs to be same for every line, otherwise
 
 
 painting bitmaps can take a lot of time (between 1 and 3 hours depending on size and complexity).
-Parameters need fine-tuning (pen distance, lines, with, speeds). You can experiment with
+Parameters need fine-tuning (pen distance, lines, with, speeds). You can experiment with.
+
+If you want to see how it looks like, watch this YouTube video:
+https://www.youtube.com/watch?v=qn0SzFcZD30
 
 For questions don't hesitatie to ask: martin.grabsch@gmail.com
 
