@@ -18,7 +18,7 @@ To realize the project you will need:
 The code can paint 2 color bitmap images in the "0" and "1" format, where "0" paints a black dot and "1" leaves a white dot
 printer can paint images with a maximum sitze of 400 pixels (width) and 250 pixels (height) maybe even a little more.
 
---> How can I convert .jpg oder .png pictures into textual bitpam files?
+--> How can I convert .jpg oder .png pictures into textual bitmap files?
 I recommend this simple browser tool:
 https://www.dcode.fr/binary-image
 
